@@ -23,3 +23,8 @@ npm install
 npm build
 npm start
 ```
+4. Loguearse en la aplicación con las siguientes credenciales:
+```bash
+correo: pcornelio@redbrow.io
+password: 123
+```
