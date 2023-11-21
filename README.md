@@ -1,6 +1,6 @@
 # Instrucciones para Compilar y Ejecutar el Proyecto React
 
-Este repositorio contiene un proyecto React con un backend en C# que puedes utilizar como base para tus propias aplicaciones web. Aquí están los pasos básicos para compilar y ejecutar el proyecto:
+Este repositorio contiene un proyecto React que puedes utilizar como base para tus propias aplicaciones web. Aquí están los pasos básicos para compilar y ejecutar el proyecto:
 
 Requisitos Previos
 Antes de comenzar, asegúrate de tener instalado lo siguiente:
